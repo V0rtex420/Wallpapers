@@ -1,4 +1,4 @@
-# This script the files in a directory to sequential numbers.
+# This script renames the files in a directory to sequential numbers.
 # https://stackoverflow.com/questions/3211595/renaming-files-in-a-folder-to-sequential-numbers
 
 a=1
