@@ -28,8 +28,6 @@
 
 ## Online Preview:
 
----
-
 ### For Linux Users:
 
 Make sure to install [feh](https://github.com/derf/feh), and to have internet access.
@@ -64,8 +62,6 @@ done
 ```
 
 ## Offline Preview:
-
----
 
 ### For Linux Users:
 
