@@ -22,7 +22,7 @@
 
 - Most of the wallpapers are nature.
 
-- The total number of photos is `512`, all in jpg format.
+- The total number of photos is `533`, all in jpg format.
 
 # Preview all the wallpapers:
 
@@ -40,7 +40,7 @@ Make sure to install [feh](https://github.com/derf/feh), and to have internet ac
 site="https://raw.githubusercontent.com/r3veal/Wallpapers/main/Wallpapers/"
 images="$HOME/.cache/wallpapers"
 
-for image in {0001..0512} ; do
+for image in {0001..0533} ; do
     echo "${site}${image}.jpg" >> "$images"
 done
 
@@ -54,7 +54,7 @@ feh --slideshow-delay 2 -f "$images"
 
 site="https://raw.githubusercontent.com/r3veal/Wallpapers/main/Wallpapers/"
 
-for image in {0001..0512} ; do
+for image in {0001..0533} ; do
     feh --bg-fill "${site}${image}.jpg"
     echo "${image}.jpg"
     sleep 2
