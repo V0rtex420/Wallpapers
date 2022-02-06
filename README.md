@@ -1,3 +1,13 @@
+<div align="center">
+    <a href="https://github.com/r3veal/Wallpapers#info">Info</a>
+    -
+    <a href="https://github.com/r3veal/Wallpapers#preview-all-the-wallpapers">Preview All the Wallpapers</a>
+    -
+    <a href="https://github.com/r3veal/Wallpapers#note">Note</a>
+    -
+    <a href="https://github.com/r3veal/Wallpapers#support-me-and-this-project">Support Me and This Project</a>
+</div>
+
 # Some of the Wallpapers:
 
 <p align='center'>
@@ -22,7 +32,7 @@
 
 - Most of the wallpapers are nature.
 
-- The total number of photos is `552`, all in jpg format.
+- The total number of wallpapers is `552`, all in jpg format.
 
 # Preview all the wallpapers:
 
