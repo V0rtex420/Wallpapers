@@ -22,7 +22,7 @@
 
 - Most of the wallpapers are nature.
 
-- The total number of photos is `533`, all in jpg format.
+- The total number of photos is `552`, all in jpg format.
 
 # Preview all the wallpapers:
 
@@ -40,7 +40,7 @@ Make sure to install [feh](https://github.com/derf/feh), and to have internet ac
 site="https://raw.githubusercontent.com/r3veal/Wallpapers/main/Wallpapers/"
 images="$HOME/.cache/wallpapers"
 
-for image in {0001..0533} ; do
+for image in {0001..0552} ; do
     echo "${site}${image}.jpg" >> "$images"
 done
 
@@ -54,7 +54,7 @@ feh --slideshow-delay 2 -f "$images"
 
 site="https://raw.githubusercontent.com/r3veal/Wallpapers/main/Wallpapers/"
 
-for image in {0001..0533} ; do
+for image in {0001..0552} ; do
     feh --bg-fill "${site}${image}.jpg"
     echo "${image}.jpg"
     sleep 2
@@ -88,3 +88,13 @@ for image in *.jpg; do feh --bg-fill $image; echo $image; sleep 2; done
 >   - [unsplash's license](https://unsplash.com/license)
 
 > Because I've collected these wallpapers from different sites and sources. It's difficult to know if there's copyright on these wallpapers. If you find one of your wallpapers in this repo and it has limited use, please consider telling me and I will remove it.
+
+# Support Me and This Project:
+
+`Monero`: 87EiKr8jgQ7BgbjAPPTAQddvJLTnyGNrQeujQ1HUetHGW1s9v9KgJL6hQ4d1Yp4wz568ugfqWWvgJBkCtmNBSWWe28HLzs2
+
+
+
+| 0.005 XMR                                                                                                  | 0.05 XMR                                                                                                          | As Much As You Want!                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://raw.githubusercontent.com/r3veal/screenshots/main/monero/0.005.png" alt="0.005 QR Code"> | <img title="" src="https://raw.githubusercontent.com/r3veal/screenshots/main/monero/0.05.png" alt="0.05 QR Code"> | <img title="" src="https://raw.githubusercontent.com/r3veal/screenshots/main/monero/AMAYW.png" alt="As Much As You Want QR Code"> |
